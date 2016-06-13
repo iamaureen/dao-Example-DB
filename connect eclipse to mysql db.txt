@@ -1,0 +1,13 @@
+for eclipse:
+------------
+
+http://theopentutorials.com/tutorials/java/jdbc/jdbc-examples-introduction/
+
+http://theopentutorials.com/tutorials/eclipse/dtp/eclipse-dtp-configure-mysql-datasource-data-source-explorer/
+
+
+for netbeans:
+-------------
+
+https://netbeans.org/competition/win-with-netbeans/mysql-client.html
+
